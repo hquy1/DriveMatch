@@ -1,0 +1,5 @@
+Import necessary libraries and dependencies specified in requirements.txt.
+Connect to the backend API to retrieve real-time location data for drivers.
+Display the locations of drivers on a map.
+Provide an interface for riders to request rides.
+Update the display of drivers' locations in real-time as new data is received from the API.
