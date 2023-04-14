@@ -1,0 +1,4 @@
+Import necessary libraries and dependencies specified in requirements.txt.
+Load the road network dataset from DriveMatch-Data.
+Perform the actual map-matching using the road network dataset and the Kalman filter and particle filtering algorithms.
+Store the results in the database for the backend to retrieve.
